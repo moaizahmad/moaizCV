@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://images.pexels.com/photos/3745234/pexels-photo-3745234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+}
+
+.left{
+  color: white;
+  text-align: center;
+  margin: auto;
+
+}
+.about{
+  font-family: "Merriweather" , serif;
+ text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-size: 10rem;
+}
+.me{
+  text-align: center;
+  margin: 10px;
+font-family: "Merriweather" , cursive;
+  font-size: 2rem;
+}
+.para{
+  font-size: 1.5rem;
+  margin-top: 100px;
+  margin-left: 390px;
+  margin-right: 390px;
+  text-align: center;
+  font-family: "Sacramento" , cursive;
+
+
+}

@@ -1,0 +1,43 @@
+body{
+  background-image: url("https://images.pexels.com/photos/3745234/pexels-photo-3745234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+}
+.work{
+  font-family: "Merriweather" , serif;
+ text-align: center;
+  margin: 100px auto 0 auto;
+  font-size: 8rem;
+}
+.right{
+  color: white;
+  text-align: center;
+  margin: auto;
+
+}
+.para{
+  font-size: 1.5rem;
+  margin-top: 50px;
+  margin-left: 390px;
+  margin-right: 390px;
+  text-align: center;
+font-family: "Sacramento" , cursive;
+
+
+}
+.bottom{
+  margin-top: 40px;
+}
+.btn{
+
+  color: white;
+  margin-left: 630px;
+  border: 3px solid brown;
+  padding: 5px 10px;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.btn:hover{
+  background-color: brown;
+
+}

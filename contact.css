@@ -1,0 +1,40 @@
+body{
+  background-image: url("https://images.pexels.com/photos/3745234/pexels-photo-3745234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 8rem;
+  margin: 100px auto 0 auto;
+font-family: "Merriweather" , serif;
+}
+p{
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+font-family: "Sacramento" , cursive;
+margin-bottom: 170px;
+}
+
+.foot{
+  text-align: center;
+  margin-top: 200px;
+
+
+}
+.icons{
+
+  color: white;
+  text-align: center;
+  margin: 0 30px;
+  font-size: 2rem;
+}
+.icons:hover{
+  background-color: brown;
+  color: white;
+}
+h4{
+  color: white;
+}

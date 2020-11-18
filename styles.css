@@ -1,0 +1,53 @@
+ .nav-bar a{
+
+   float: right;
+   color: white;
+   text-align: center;
+   padding: 10px 10px;
+   text-decoration: none;
+   font-size: 15px;
+   margin: 50px 30px 5px 5px;
+
+ }
+
+ a:hover{
+background-color: black;
+   color: white;
+   transition: 0.8s ease;
+   border: 1px solid white;
+ }
+
+ .main{
+   background-image: url("https://agkdesign.files.wordpress.com/2016/12/bg-footer.gif");
+   background-size: cover;
+
+ }
+ .logo{
+   padding: 2px;
+   font-size: 3rem;
+   font-family: "Merriweather" , serif;
+  color: White;
+  display: inline-flex;
+  border: 2px solid brown;
+  border-width: thin;
+
+ }
+
+ .middle{
+font-family: "Sacramento" , cursive;
+   margin: 5px 10px 10px;
+   color: White;
+   font-size: 3rem;
+   text-align: center;
+ }
+ .name{
+   margin-top: 10px;
+   font-family: "Merriweather" , cursive;
+   font-size: 8rem;
+ }
+ hr{
+   width: 50%;
+   border: 2px solid brown;
+   margin: auto;
+ }
+ 
